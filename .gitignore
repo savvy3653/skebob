@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/skebob/token.h
+/skebob/skebob.vcxproj
+/skebob/skebob.vcxproj.filters
