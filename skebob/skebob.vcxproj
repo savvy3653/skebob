@@ -129,8 +129,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="commands.cpp" />
     <ClCompile Include="skebob.cpp" />
+    <ClCompile Include="stats.cpp" />
     <ClCompile Include="token.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="commands.h" />
+    <ClInclude Include="stats.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="stats.json" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
