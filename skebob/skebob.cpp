@@ -13,6 +13,7 @@ int main(int argc, char* argv[]) {
 
     cmd->command_handler();
     cmd->command_init();
+    cmd->autocomplete_init();
 
     bot.start(dpp::st_wait);
 

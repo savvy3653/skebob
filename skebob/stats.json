@@ -1,0 +1,21 @@
+{
+  "user_id": "id",
+  "government_form": "gf",
+  "ideology": "ideology",
+  "leader": "leader",
+
+  "stability": 0,
+  "war_support": 0,
+  "life_satisfaction": 0,
+  "literacy": 0,
+
+  "population": 0,
+  "mobilization": 0,
+  "mobilization_reserve": 0,
+
+  "rural_supoport": 0,
+  "workers_support": 0,
+  "bourgeoisie_support": 0,
+  "army_support": 0,
+  "intelligentsia_support":  0
+}
